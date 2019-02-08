@@ -1,0 +1,12 @@
+/Users/sabri/Projects/CALCULATORios/CALCULATORios/bin/iPhoneSimulator/Debug/CALCULATORios.exe
+/Users/sabri/Projects/CALCULATORios/CALCULATORios/bin/iPhoneSimulator/Debug/CALCULATORios.pdb
+/Users/sabri/Projects/CALCULATORios/CALCULATORios/obj/iPhoneSimulator/Debug/CALCULATORios.csproj.CoreCompileInputs.cache
+/Users/sabri/Projects/CALCULATORios/CALCULATORios/obj/iPhoneSimulator/Debug/CALCULATORios.exe
+/Users/sabri/Projects/CALCULATORios/CALCULATORios/obj/iPhoneSimulator/Debug/CALCULATORios.pdb
+/Users/sabri/Projects/CALCULATORios/CALCULATORios/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/sabri/Projects/CALCULATORios/CALCULATORios/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/_PartialAppManifest.items
+/Users/sabri/Projects/CALCULATORios/CALCULATORios/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/_BundleResourceWithLogicalName.items
+/Users/sabri/Projects/CALCULATORios/CALCULATORios/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/coremlc/_PartialAppManifest.items
+/Users/sabri/Projects/CALCULATORios/CALCULATORios/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/coremlc/_BundleResourceWithLogicalName.items
+/Users/sabri/Projects/CALCULATORios/CALCULATORios/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/
+/Users/sabri/Projects/CALCULATORios/CALCULATORios/obj/iPhoneSimulator/Debug/CALCULATORios.csprojAssemblyReference.cache
